@@ -1,4 +1,4 @@
-# Diaspora
+# Diaspora (forked)
 
 The privacy aware, personally controlled, do-it-all, open source social
 network.
